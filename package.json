@@ -40,7 +40,7 @@
     "is-svg": ">=4.2.2",
     "sirv-cli": "^1.0.14",
     "somedom": "^0.4.20",
-    "testcafe": "^2.0.1"
+    "testcafe": "^2.6.1"
   },
   "peerDependencies": {
     "testcafe": "*"
